@@ -8,12 +8,12 @@ Vue.config.productionTip = false
 
  // Initialize Firebase
  var config = {
-  apiKey: "AIzaSyDDnVqBUHMZHJ4mzJQsXAnQFymQwgKzyrA",
-  authDomain: "dizcardmerchant.firebaseapp.com",
-  databaseURL: "https://dizcardmerchant.firebaseio.com",
-  projectId: "dizcardmerchant",
-  storageBucket: "dizcardmerchant.appspot.com",
-  messagingSenderId: "1091778163176"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 firebase.initializeApp(config);
 
